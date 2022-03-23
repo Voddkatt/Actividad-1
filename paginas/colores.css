@@ -1,4 +1,49 @@
-*{
+body {
     background-color: black;
     font-family: sans-serif;
+
 }
+
+ul.horizontal {
+    margin: 0;
+    padding: 0;
+}
+
+ul.horizonal li{
+    display: block;
+    float: left;
+    padding:0 10px;  
+}
+
+.sidebar {
+    color: white;
+    background-color: black;
+}
+
+.center {
+    text-align: center;
+    padding: 25px;
+    background-color: aqua;
+    margin: auto;
+    
+}
+
+.center1 {
+    text-align: center;
+    padding: 25px;
+    background-color:gold;
+
+}
+
+.center2 {
+    text-align: center;
+    background-color: orange;
+    padding: 25px;
+}
+
+.center3 {
+    text-align: center;
+    background-color: red;
+    padding: 25px;
+}
+
